@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexPagerPrinter" version="4.0.1" build="1">
+        <info>TakingData4.01</info>
+    </plugin>
+</uexplugins>

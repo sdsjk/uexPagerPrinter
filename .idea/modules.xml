@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/uexPagerPrinter.iml" filepath="$PROJECT_DIR$/uexPagerPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uexPagerprinter/uexPagerprinter.iml" filepath="$PROJECT_DIR$/uexPagerprinter/uexPagerprinter.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        className="com.cloud.adapter.print.EUEXPagerPrint" uexName="uexPagerPrinter" >
+        <method name = "pagerPrintView" />
+    </plugin>
+</uexplugins>

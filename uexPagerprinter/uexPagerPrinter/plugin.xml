@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        className="com.cloud.adapter.print.EUEXPagerPrint" uexName="uexPagerPrinter" >
+        <method name = "onRegister" />
+        <method name = "onLogin" />
+        <method name = "trackPageBegin" />
+        <method name = "trackPageEnd" />
+        <method name = "trackEvent" />
+        <method name = "trackEventLabel" />
+        <method name = "trackEventParameters" />
+        <method name = "trackEventGlobalKV" />
+        <method name = "trackRemoveEvent" />
+        <method name = "createPlaceOrderc" />
+        <method name = "onOrderPaySucc" />
+        <method name = "onViewItem" />
+        <method name = "onAddItemToShoppingCart" />
+        <method name = "onViewShoppingCart" />
+    </plugin>
+</uexplugins>
